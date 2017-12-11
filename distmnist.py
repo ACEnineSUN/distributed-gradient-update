@@ -4,7 +4,7 @@
 """
 This program test saving gradients, and subtract gradients 
 When training CNN mnist classifying
-One parameter server and one worker node will used to verify the program.
+One parameter server and two workers will be used to verify the program.
 """
 
 from __future__ import absolute_import
